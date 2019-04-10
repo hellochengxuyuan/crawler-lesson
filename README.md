@@ -1,13 +1,10 @@
-#图1
+# 整体架构图
 
 ![Image](https://github.com/hellochengxuyuan/photo/blob/master/3.jpg)
 
-图1为整体架构图
 
-
-#图2
+# 页面搜索结果图
 
 ![Image](https://github.com/hellochengxuyuan/photo/blob/master/3-2.jpg)
 
-图2为爬取结果后，页面搜索结果图
 
